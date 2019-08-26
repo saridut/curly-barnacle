@@ -1,2 +1,3 @@
 # curly-barnacle
-This is a test repo for some GH features
+This is a test repo for some GH features.
+Another line.
